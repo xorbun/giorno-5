@@ -57,6 +57,7 @@ h4
 .info
 {
     background-color: rgb(255, 77, 0);
+    padding-bottom: 3em;
 }
 .info > h1
 {
