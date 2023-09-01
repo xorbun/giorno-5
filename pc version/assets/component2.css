@@ -1,0 +1,105 @@
+body
+{
+    text-align: center;
+}
+.logo
+{
+    text-align: left;
+    background-color: black;
+}
+.begin
+{
+   background-image: url(banner.jpg);
+   background-size:cover;
+   padding-bottom: 3em;
+   background-repeat: no-repeat;
+}
+h1
+{
+    font-weight: bold;
+    font-size: 2em;
+    color: rgb(68, 161, 161);
+    padding-top: 8em;
+}
+p
+{
+    color: rgb(101, 101, 101);
+    font-size: 1.2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+span
+{
+    background-color: rgb(235, 92, 15);
+    border-radius: 0.2em;
+    padding: 0.7em;
+    color: white;
+}
+h2
+{
+    font-weight: bold;
+    font-size: 1.2em;
+    color: rgb(68, 161, 161);
+    padding: 0.5em;
+}
+h4
+{
+    font-size: 1.2em;
+    color: white;
+}
+
+.photo > img
+{
+    
+    border-radius: 50%;
+    float: left;
+}
+.info
+{
+    background-color: rgb(255, 77, 0);
+    text-align: center;
+}
+.info > h1
+{
+    color: white;
+    padding-top: 2em;
+    
+}
+.info > p
+{
+    color: white;
+    padding-bottom: 2em;
+    
+}
+
+footer
+{
+    background-color: rgb(2, 136, 189);
+    padding-bottom: 4em;
+}
+footer > h1
+{
+    color: white;
+    font-size: 2em;
+    padding-top: 2em;
+}
+footer > h4
+{
+    padding-left: 2em;
+    padding: 1em;
+    background-color:rgb(2, 136, 189);
+    color: white;
+    font-size: 1em;
+}
+.box
+{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-left: 40em;
+    text-align: left;
+}
+table
+{
+    margin-top: 1em;
+    
+}
