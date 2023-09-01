@@ -1,6 +1,7 @@
 body
 {
     text-align: center;
+    font-family: 'Lato', sans-serif;
 }
 .logo
 {
@@ -13,6 +14,7 @@ body
    background-size:cover;
    padding-bottom: 3em;
    background-repeat: no-repeat;
+   
 }
 h1
 {
